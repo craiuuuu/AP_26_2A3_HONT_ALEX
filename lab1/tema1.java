@@ -2,7 +2,8 @@ package lab1;
 
 public class tema1
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         int n = Integer.parseInt(args[0]);
         String forma = args[1];
 
