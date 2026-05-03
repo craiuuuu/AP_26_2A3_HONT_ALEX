@@ -9,4 +9,4 @@ robotthread-pt fiecare robot in parte.Robotul interogheaza SharedMemory pt a afl
 SharedMemory-zona de memorie folosita pt comunicarea intre roboti.
 
 
-Rezultatul este doar in consola.
+Rezultatul este doar in consola!!!!
