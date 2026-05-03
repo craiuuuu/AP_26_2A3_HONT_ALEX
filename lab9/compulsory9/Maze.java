@@ -1,4 +1,4 @@
-package lab8.tema8;
+package lab9.compulsory9;
 
 import lombok.Getter;
 import lombok.Setter;
